@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.venv-1/
+*.pyc
+.ipynb_checkpoints/
+../.venv/
+../.venv-1/
+../Lab2_Challenge_Tasks/
